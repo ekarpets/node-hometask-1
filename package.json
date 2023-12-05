@@ -1,6 +1,6 @@
 {
   "name": "the-most-repeated-letter",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "search for the most repeated letter in the text",
   "main": "script.js",
   "scripts": {
